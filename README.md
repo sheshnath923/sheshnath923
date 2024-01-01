@@ -10,7 +10,7 @@
 sheshnath923/sheshnath923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm currently devloping my protfilo website as my project i have done my frontent but backend is still not developed because of minimal of time and other project is that
+I'm currently study +2 but after 2 months i will clear my +2.I dont have any project before but right now I'm devloping my own Website as my first project i have done my frontent but backend is still not developed because of minimal of time and other project is that
 I'm devloping web site for my collage teacher according  to his design.
 i have skills to learn new things and best understanding to technologys and applying skills
 yeah! I'm fresher in web devlopment but i defenetly want to tell you i have strong learning abilites and good understanding skills to understand new technologys and use it in my projects.
